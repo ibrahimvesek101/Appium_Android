@@ -7,7 +7,6 @@ import org.openqa.selenium.By;
 import utils.elementHelper;
 
 public class homePage {
-
     AppiumDriver driver;
     elementHelper elementHelper;
 
